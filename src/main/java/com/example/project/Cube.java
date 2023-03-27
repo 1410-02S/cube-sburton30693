@@ -1,5 +1,6 @@
 package com.example.project;
 
+//This was a very clever solution, good understanding of the topic. I wouln't say its a perfect user experince but otherwise its great!
 public class Cube {
     static String[][][] cube = {
         {{"w", "w", "w"},
